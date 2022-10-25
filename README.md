@@ -16,7 +16,7 @@
  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-![Snake animation](https://github.com/WellyYanne/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WellyYanne/WellyYanne/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
