@@ -5,15 +5,7 @@
  💞 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellyYanne&hide_progress=true)
 
-
-<a href="https://github.com/WellyYanne/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WellyYanne&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/WellyYanne/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WellyYanne&repo=convoychat" />
-</a>
 
 # Aprendendo
 <div style="display: inline_block"><br>
