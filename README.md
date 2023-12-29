@@ -4,10 +4,7 @@
 - 📚 No momento estou estudando Analise e Desenvolvimento de Sistemas.
  💞 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-</div>
+
 
 # Aprendendo
 <div style="display: inline_block"><br>
