@@ -4,7 +4,7 @@
 - 📚 No momento estou estudando Analise e Desenvolvimento de Sistemas.
  💞 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wellyyanne=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?WellyYanne=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # Aprendendo
 <div style="display: inline_block"><br>
