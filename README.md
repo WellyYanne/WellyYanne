@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
 
-# Estou aprendendo
+# Aprendendo
 <div style="display: inline_block"><br>
  <img alt= "JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
  <img alt ="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
