@@ -5,7 +5,7 @@
  💞 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&bg_color=00000000)
-<img height="160em" src="https://camo.githubusercontent.com/df90802ded1cba51e158d3745f0e120a24ecb3664596dfe875c4365216317922/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d496e677269642d5061756c696e6f266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Welly Yanne" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellyYanne&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellyYanne&hide_progress=true)
 
 # Aprendendo
 <div style="display: inline_block"><br>
