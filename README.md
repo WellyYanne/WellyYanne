@@ -1,10 +1,10 @@
 # Oie, sou Welly Yanne
 
-- 🌱Estou iniciando minha jornada na area de programação 
-- 📚 No momento estou estudando Analise e Desenvolvimento de Sistemas.
+- 🌱Estou mudando de carreira e iniciando minha jornada na area de programação!
+- 📚 No momento estou me formando em Analise e Desenvolvimento de Sistemas.
  💞 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&theme=tokyonight)
 
 
 # Aprendendo
@@ -16,6 +16,8 @@
   <img alt ="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
  <img alt ="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
  <img alt ="GitHub "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+<img alt ="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+          
           
             
           
