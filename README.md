@@ -1,7 +1,6 @@
-# Oie, sou Welly Yanne
+# Olá
 
- Olá! Sou Welly Yanne, uma programação dedicada que está embarcando em uma nova jornada na área de desenvolvimento de software. <br>
-Além disso, estou sempre buscando aprender e aprimorar minhas habilidades em diversas tecnologias. Aqui estão algumas das tecnologias com as quais estou trabalhando atualmente:
+Meu nome é Welly Yanne e estou embarcando em uma nova jornada no desenvolvimento de software, trazendo mais de 3 anos de experiência no setor financeiro. Estou me formando em Análise e Desenvolvimento de Sistemas, e com uma base em técnico em informática, tenho habilidades em C#, Java, HTML e CSS. Minha transição para o desenvolvimento de software é impulsionada pela minha paixão pela tecnologia e pelo desejo de aplicar meu conhecimento em novos desafios tecnológicos.
  💞 
 
 
@@ -17,15 +16,10 @@ Além disso, estou sempre buscando aprender e aprimorar minhas habilidades em di
  <img alt ="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="40"/>
  <img alt ="GitHub "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="40" />
 <img alt ="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="40"/>
-    <br>
+     <br>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyYanne&show_icons=true&theme=tokyonight)
-            
-          
-          
- 
-
- 
+   
 </div>
 
 
